@@ -1,6 +1,8 @@
 # Week 0 — Billing and Architecture
 
 ## Destroy your root account, Set MFA, IAM role, create standard user with MFA -> DONE
+- [Image of MFA for root user](iam/screen01_mfa_for_root_user.PNG)
+- [Image of MFA and Accesskey for standard user](iam/screen02_mfa_for_standard_user+acceskey_generated+console_link_changed+user_group_created.PNG)
 - all screenshoots are in `journal/week0/iam` folder.
 
 ## Set a billing alarm, Set a AWS Budget -> DONE
