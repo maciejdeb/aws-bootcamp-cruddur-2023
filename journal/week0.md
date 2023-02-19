@@ -16,8 +16,5 @@
 
 ## Review all the questions of each pillars in the Well Architected Tool (No specialized lens) -> DONE
 
-## Create an architectural diagram (to the best of your ability) the CI/CD logical pipeline in Lucid Charts
-
-## Research the technical and service limits of specific services and how they could impact the technical path for technical flexibility. 
-
-## Open a support ticket and request a service limit
+## Create an architectural diagram (to the best of your ability) the CI/CD logical pipeline in Lucid Charts -> DONE
+- [Link to the diagram](https://lucid.app/lucidchart/6d671c77-9e68-4590-a69f-c59d377aefea/edit?viewport_loc=-395%2C22%2C2221%2C885%2C0_0&invitationId=inv_6256db0c-a233-4e65-9adf-e5006fd905f7) 
