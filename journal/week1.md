@@ -2,7 +2,7 @@
 
 ## 1. Run the dockerfile CMD as an external script
 - 
-## 2. Push and tag a image to DockerHub (they have a free tier) -> screenshoots are in `journal/week1/docker` folder.
+## 2. Push and tag a image to DockerHub (they have a free tier) -> [Done in section 6 - screenshoots are in journal/week1/docker]()
 
 ## 3. Use multi-stage building for a Dockerfile build
 
