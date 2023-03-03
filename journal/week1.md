@@ -1,11 +1,12 @@
 # Week 1 — App Containerization
 
 ## 1. Run the dockerfile CMD as an external script
-- [Image of local Docker pull_and_push_to_DockerHub](week1/docker/screen3_executing_shell_script.PNG)
+- [Image of dockerfile CMD as an external script](week1/docker/screen3_executing_shell_script.PNG)
 
 ## 2. Push and tag a image to DockerHub (they have a free tier) -> [Done in section 6 - screenshoots are in journal/week1/docker]()
 
 ## 3. Use multi-stage building for a Dockerfile build
+- [Image of multi-stage building for a Dockerfile build](week1/docker/screen4_executing_multistage_dockerfile.PNG)
 
 ## 4. Implement a healthcheck in the V3 Docker compose file
 
